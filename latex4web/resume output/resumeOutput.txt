@@ -1,0 +1,58 @@
+<html><head><title>LaTeX4Web 1.4 OUTPUT</title><style type="text/css"><!--
+body {color: black;  background:"#FFCC99";  }
+div.p { margin-top: 7pt;}
+td div.comp { margin-top: -0.6ex; margin-bottom: -1ex;}
+td div.comb { margin-top: -0.6ex; margin-bottom: -.6ex;}
+td div.norm {line-height:normal;}
+td div.hrcomp { line-height: 0.9; margin-top: -0.8ex; margin-bottom: -1ex;}
+td.sqrt {border-top:2 solid black;
+border-left:2 solid black;
+border-bottom:none;
+border-right:none;}
+table.sqrt {border-top:2 solid black;
+border-left:2 solid black;
+border-bottom:none;
+border-right:none;}
+--></style></head><body>\titleResume_AddisonFreeman
+\documentclass[letterpaper]deedy-resume 
+\begindocument
+\lastupdated 
+\namesectionAddisonFreeman \hrefmailto:addison.freeman@trinity.eduaddison.freeman@trinity.edu | 535 Columbia St. Houston, TX 77007 | 210.382.5214 
+\beginminipage[t]0.3\textwidth <p><a name="toc.1"><h1>1&nbsp;Education</h1> <p><a name="toc.1.1"><h2>1.1&nbsp;Trinity University</h2>\descriptB.S. in Computer Science
+\locationMay 2014 | San Antonio, TX
+\sectionspace <p><a name="toc.2"><h1>2&nbsp;Links</h1> 
+LinkedIn:// \hrefhttps://www.linkedin.com/pub/addison-freeman/55/989/137<b>addison-freeman</b> <br>GitHub:// \hrefhttps://https://github.com/addisonfreeman<b>AddisonFreeman</b> <br>\sectionspace <p><a name="toc.3"><h1>3&nbsp;Skills</h1><p><a name="toc.3.1"><h2>3.1&nbsp;Programming</h2>\locationProficient:
+HTML/CSS \textbullet JavaScript \textbullet C\# \textbullet  <br>\locationFamiliar:
+Haskell \textbullet Scala \textbullet C <br>SQL <br>\locationDevelopment Tools:
+Visual Studio, Git CLI, Bash Shell
+\sectionspace <p><a name="toc.4"><h1>4&nbsp;Societies</h1> <font size="+0"> 
+Association Of Computing Machinery <br>Houston Swing Dance Society <br>Delta Epsilon Iota Academic Honor Fraternity  <br>Upsilon Pi Epsilon Computing Honor Society <br>\sectionspace <p><a name="toc.5"><h1>5&nbsp;Pet Projects</h1> 
+Association Of Computing Machinery <br>Houston Swing Dance Society <br>Delta Epsilon Iota Academic Honor Fraternity  <br>Upsilon Pi Epsilon Computing Honor Society <br>\sectionspace 
+\endminipage \hfill
+\beginminipage[t]0.69\textwidth <p><a name="toc.6"><h1>6&nbsp;Experience</h1>\runsubsectionFreelance Web Developer
+\descript| Wordpress and Drupal
+\locationAugust 2015 - present
+\vspaceTsep
+Technologies Used: CSS, PHP, HTML, Javascript, jQuery
+\sectionspace
+\runsubsectionPariveda Solutions\phantom
+\descript| IT Consultant
+\locationJune 2014 - June 2015 | Houston, TX
+\vspaceTsep \begintightitemize<li> C\# Development and Testing: Xamarin Cross-Platform Android and iOS App Creation - MVC Kendo UI C\# Web Application Rice DNA Comparison Tool<br><li> SharePoint Development: Worked in small team to create Intranet Portal in SharePoint 2013 - Created Organizational Directory with SharePoint 2010’s MySite feature and successfully enabled full synchronization with client<font face=symbol>¢</font>s Active Directory <br><li> Composed SQL queries to identify duplicate records in client company acquisition <br><li> Analyzed company revenue data with business intelligence tool, QlikSense. Demonstration of results influenced management team<font face=symbol>¢</font>s adoption of QlikSense for company-wide metrics reporting <br><li> Migrated legacy console applications to AWS cloud instances <li> Updated business logic of Angular.js internal web application to make better use of data binding and improved site image loading resiliency by extending Angular directives to interface with third party file hosting REST API  <br>\endtightitemize
+\sectionspace 
+\runsubsectionTrinity Dept. of Computer Science\phantom
+\descript| Senior Software Project
+\locationAugust 2013 – May 2014 | San Antonio, TX
+\begintightitemize<li> Leveraged HTML5, CSS, Javascript, and Jasmine testing framework with an agile and waterfall approach to create a web/mobile interface for a commercial online file transfer service
+\endtightitemize<p><a name="toc.7"><h1>7&nbsp;Accomplishments \& Interests</h1>\runsubsectionEagle Scout Award\phantom
+\descript| Boy Scouts of America, Awarded 2010
+\locationMembership: August 2002 – May 2010
+\begintightitemize<li> Refurbished, networked, and configured 20 computers for a nonprofit child development center <li> Solicited donations of 45 computers and 57 monitors; negotiated collection with a local E-waste recycling center
+\endtightitemize
+\runsubsectionMusic\phantom
+\descript| Performance and Related Disciplines
+\begintightitemize<li> Accomplished in violin, viola, mandolin, guitar, piano, and singing<li> Performed, studied, and/or traveled with music groups of varying styles (folk, rock, classical, acapella, traditional) and sizes (solo, chamber groups, choral/orchestral) <li> Led talent management duties including marketing, booking, and online artist representation<br><li> Radio DJ for KRTU 91.7FM: Planned and broadcasted music as a radio personality on a weekly basis | 2010 - 2014
+\endtightitemize
+\sectionspace 
+\endminipage 
+\enddocument<hr><p><h1>Table Of Contents</h1><p><a href="#toc.1"><h1>1&nbsp;Education</h1></a><p><a href="#toc.1.1"><h2>1.1&nbsp;Trinity University</h2></a><p><a href="#toc.2"><h1>2&nbsp;Links</h1></a><p><a href="#toc.3"><h1>3&nbsp;Skills</h1></a><p><a href="#toc.3.1"><h2>3.1&nbsp;Programming</h2></a><p><a href="#toc.4"><h1>4&nbsp;Societies</h1></a><p><a href="#toc.5"><h1>5&nbsp;Pet Projects</h1></a><p><a href="#toc.6"><h1>6&nbsp;Experience</h1></a><p><a href="#toc.7"><h1>7&nbsp;Accomplishments \& Interests</h1></a></body></html>
