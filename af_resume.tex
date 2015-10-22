@@ -1,0 +1,293 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy CV/Resume
+% XeLaTeX Template
+% Version 1.0 (5/5/2014)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Debarghya Das (http://www.debarghyadas.com)
+% With extensive modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important notes:
+% This template needs to be compiled with XeLaTeX.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{Resume_AddisonFreeman}
+\documentclass[letterpaper]{deedy-resume} % Use US Letter paper, change to a4paper for A4 
+\usepackage{titlesec}
+\titlespacing{\paragraph}{%
+  0pt}{%              left margin
+  0.2\baselineskip}{% space before (vertical)
+  1em}% 
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+%\lastupdated % Print the Last Updated text at the top right
+
+
+\namesection{Addison}{Freeman}{ % Your name
+%\urlstyle{same}\url{http://addisonfreeman.info} \\ % Your website, LinkedIn profile or other web address
+\href{mailto:addison.freeman@trinity.edu}{addison.freeman@trinity.edu} | 535 Columbia St. Houston, TX 77007 | 210.382.5214 % Your contact information
+}
+
+%----------------------------------------------------------------------------------------
+%	LEFT COLUMN
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t][10cm]{0.26\textwidth} % The left column takes up 25% of the text width of the page
+
+%------------------------------------------------
+% Education
+%------------------------------------------------
+
+\section{Education} 
+
+\subsection{Trinity University}
+
+\descript{B.S. in Computer Science}
+\location{May 2014 | San Antonio, TX}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Links
+%------------------------------------------------
+
+\section{Links} 
+\begin{tabular}{l}
+LinkedIn:// \href{https://www.linkedin.com/pub/addison-freeman/55/989/137}{\bfseries addison-freeman} \\
+GitHub:// \href{https://https://github.com/addisonfreeman}{\bfseries AddisonFreeman} \\
+\end{tabular}
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Coursework
+%------------------------------------------------
+\iffalse
+\section{Coursework}
+\subsection{Undergraduate}
+\begin{tabular}{l}
+%Senior Software I \& II \\
+%Algorithm Design I \& II \\
+%Data Abstraction \\
+Functional Programming \\
+Low-Level Computing \\
+Computing Theory I  II \\
+Intro to Game Development \\
+%Symbolic Logic \\
+\end{tabular}{l}
+\sectionspace % Some whitespace after the section
+\fi
+%------------------------------------------------
+% Skills
+%------------------------------------------------
+
+\section{Skills}
+
+\subsection{Programming}
+
+\paragraph{Languages:}
+\begin{tabular}{l}
+HTML/CSS \textbullet{} JavaScript \textbullet{} C\#  \\ 
+Haskell \textbullet{} Scala \textbullet{} F\# \textbullet{} SQL \\
+\end{tabular}
+\paragraph{Development Tools:}
+\begin{tabular}{l}
+Visual Studio, Git CLI, Bash Shell
+\end{tabular}
+%\sectionspace % Some whitespace after the section
+%\vspace{1 mm}
+%----------------------------------------------------------------------------------------
+
+\paragraph{Personal Projects: \href{https://https://github.com/addisonfreeman}{GitHub}}
+\begin{tabular}{l}
+%\vspace{\topsep}
+\textbullet{} Haskell/F\# Connect Four Solver  \\
+\textbullet{} Scala/Akka MUD Game \\
+\textbullet{} \LaTeX \  Résumé Source Code \\
+\end{tabular}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Societies
+%------------------------------------------------
+
+\section{Societies} 
+\small 
+\begin{tabular}{l}
+\emph{Delta Epsilon Iota} Honor Fraternity  \\
+\emph{Upsilon Pi Epsilon} Computing Society \\
+Association of Computing Machinery \\
+Houston Swing Dance Society \\
+\end{tabular}
+%\sectionspace % Some whitespace after the section
+
+%----------------------------------------------------------------------------------------
+%------------------------------------------------
+% Bookshelf
+%------------------------------------------------
+
+\section{Bookshelf}
+\small Ask me about...
+\normalsize
+\begin{tabular}{l}
+\textbullet{} \emph{The Pragmatic Programmer} \\
+\textbullet{} \emph{Head First Design Patterns} \\
+\textbullet{} \emph{Javascript: The Good Parts} \\
+\textbullet{} \emph{Why's (Poignant) Guide to Ruby} \\
+\end{tabular}
+
+\end{minipage} % The end of the left column
+\hfill
+%
+%----------------------------------------------------------------------------------------
+%	RIGHT COLUMN
+%----------------------------------------------------------------------------------------
+%
+\begin{minipage}[t]{0.73\textwidth} % The right column takes up 70% of the text width of the page
+
+%------------------------------------------------
+% Experience
+%------------------------------------------------
+
+\section{Experience}
+
+\runsubsection{Freelance Web Developer\phantom}
+\descript{| Wordpress}
+\location{August 2015 - present}
+
+\vspace{\topsep}
+\begin{tightitemize}
+\item \href{https://collegeapplicationprep.com}{\bfseries Ageless Cures} Online health and wellness products store \\
+\begin{tabular}{l}
+CSS Customization of Product Layout and Description Pages \\ 
+Led site go-live and implemented server backup plan \\
+
+\end{tabular}
+%\item \href{https://addisonfreeman.com/dir}{\bfseries Limerick Stables} Horseback Riding
+%\item \href{https://addisonfreeman.com}{\bfseries addisonfreeman.com},  Personal website and blog \\
+\end{tightitemize}
+
+\sectionspace
+
+\runsubsection{Pariveda Solutions\phantom}
+\descript{| IT Consultant}
+
+\location{June 2014 - June 2015 | Houston, TX}
+%\vspace{\topsep} % Hacky fix for extra vertical space
+\begin{tightitemize}
+\item Xamarin Cross-Platform App Development, Medical Delivery App (Xaml and C\#)
+\begin{tabular}{l} 
+Completed customer and driver user stories heavily utilizing MVVM two-way data binding \\
+Implemented client provided form validation system with personally written unit tests \\
+\end{tabular}
+\item MVC Kendo UI Rice DNA Comparison Web Application (C\#)
+\begin{tabular}{l}
+Created Server and Browser Form Validation with Unit Tests\\
+\end{tabular}
+\item SharePoint Development (ASP.NET, C\#)
+\begin{tabular}{l}
+In small team, created employee portal intranet with SharePoint 2013/Office 365 \\ 
+Set up Organizational Directory with SharePoint 2010 Mysite feature \\ Enabled full Active Directory sync \\
+\end{tabular}
+\item Composed SQL queries to identify duplicate records during client company acquisition\\
+\item Business Intelligence Experience, QlikSense
+\begin{tabular}{l}
+Imported and visually represented analysis of company revenue and employee data  \\ 
+Demonstration of reports led to management's adoption of QlikSense \\ for company-wide metrics reporting \\
+\end{tabular}
+\item Migrated internal legacy console applications to AWS cloud instances 
+\item Updated business logic of Angular.js internal web application to make better use of data binding and improved site image loading resiliency by extending Angular directives to interface with third party file hosting REST API  \\
+\end{tightitemize}
+%\footnotesize * project completed in collaboration with a team of 3-5 \\
+%\normalsize
+\sectionspace % Some whitespace after the section
+
+\runsubsection{Trinity Dept. of Computer Science\phantom}
+\descript{| Notable Coursework}
+\paragraph{Senior Software Project}
+\location{August 2013 – May 2014 | San Antonio, TX}
+\begin{tightitemize}
+\item Leveraged HTML5, CSS, Javascript, and Jasmine testing framework with an agile approach to create a web/mobile interface for a commercial online file transfer service
+\end{tightitemize}
+\paragraph{Intro To Game Design, \href{https://github.com/TrinityUniversityGameDesign/Heracles}{\bfseries Adventures Of Heracles}}
+\location{Jan 2014 – May 2014 | San Antonio, TX}
+\begin{tightitemize}
+\item Developed, with scrum approach, a 2D side-scrolling game using Unity 3D and C\#
+\end{tightitemize} 
+\sectionspace % Some whitespace after the section
+
+
+%----------------------------------------------------------------------------------------
+
+%------------------------------------------------
+% Interests
+%------------------------------------------------
+\end{minipage}
+\vspace{5 mm}
+\section{Accomplishments \& Interests}
+
+
+\runsubsection{Eagle Scout Award\phantom}
+\descript{| Boy Scouts of America, Awarded 2010}
+\location{Membership: August 2002 – May 2010}
+\begin{tightitemize}
+\item Refurbished, networked, and configured 20 computers for a nonprofit child development center 
+\item Solicited donations of 45 computers and 57 monitors; negotiated collection with a local E-waste recycling center
+\end{tightitemize}
+
+\runsubsection{Music\phantom}
+\descript{| Performance and Related Disciplines}
+\begin{tightitemize}
+\item Accomplished in violin, viola, mandolin, guitar, piano, and singing
+\item Performed and/or traveled with music groups of varying styles (folk, rock, classical, acapella) and sizes (solo, chamber groups, choral/orchestral) 
+\item Led marketing, booking, and online artist representation duties\\
+\item Radio DJ for KRTU 91.7FM: Scheduled and broadcasted music as a radio personality weekly | 2010 - 2014
+\end{tightitemize}
+
+
+
+%Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which learns from large scale user preference feedback to plan robot trajectories in human environments. Publication submitted.
+
+%\begin{tabular}{rll}
+%2014 & top 12\%ile & Tau Beta Pi Engineering Honor Society\\
+%\end{tabular}
+
+
+
+\sectionspace % Some whitespace after the section
+
+
+%\end{minipage} % The end of the right column
+
+%----------------------------------------------------------------------------------------
+%	SECOND PAGE (EXAMPLE)
+%----------------------------------------------------------------------------------------
+
+%\newpage % Start a new page
+
+%\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+
+%\section{Example Section}
+
+%\end{minipage} % The end of the left column
+%\hfill
+%\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
+
+%\section{Example Section 2}
+
+%\end{minipage} % The end of the right column
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
