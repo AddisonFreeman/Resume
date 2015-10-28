@@ -1,0 +1,99 @@
+# All credit to github.com/divad12/resume
+
+contact:
+    name: Addison Merrett Freeman
+    email: 'addison.freeman@[trinity.edu](http://addisonfreeman.com)'
+    github: '[github.com/addisonfreeman](https://github.com/addisonfreeman)'
+    #stackoverflow: '[stackoverflow.com/users/######](http://stackoverflow.com/users/#####)'
+
+projects:
+    - 'Personal blog [blog.addisonfreeman.com](http://blog.addisonfreeman.com): Elaboration on Technical Experience'
+    - 'Built web apps in Flask + MongoEngine, Rails + Mongoid, App Engine, Node.js + Express, Django + MySQL, C# + ASP.NET'
+- Technical Knowledge:
+    #- 'Python (Django, Google App Engine): Khan Academy backend, social web startup, hobby projects'
+    #- 'JavaScript: Optimizations and browser bug workarounds for Google Docs; Node.js; jQuery'
+    #- 'C++: 6 years of experience through work, personal projects, contests, robotics, and school'
+    #- 'Experienced with HTML, CSS, Sass + Compass, Java, Swing, C, Google Closure Tools, MIPS assembly, AWS (EC2, Elastic MapReduce, S3), Hadoop, GNU Make, Qt'
+    #- 'Prior experience: Bash scripting, Scheme, LaTeX, XPath, C#'
+    #- 'Platforms: Linux command line, Ubuntu, Mac OS X, Windows'
+    #- 'Tools: Proficient with Vim and Git; worked with Mercurial, Perforce, SVN, Visual Studio' # gdb, Nginx
+#- General:
+    #- 'Regularly competes in programming contests, including ACM, Google AI contest, CCC, Project Euler, USACO' # ECOO, DWITE, TopCoder, IBM CASCON, IPSC
+    #- 'Interested in startups, AI, machine learning, compilers, algorithms'
+
+work:
+    - employer: Self-Employed
+      title: Freelance Developer
+      location: Houston, TX
+      dates: July 2015 - Present
+      description: [WordPress and Drupal Development/Customization]
+    - employer: Pariveda Solutions
+      title: IT Consultant
+      location: Houston, TX
+      dates: June 2014 - June 2015
+      description:
+		- 'Developed MVC-type web and mobile applications for clients in multiple industries'
+
+university:
+    - who: Entrepreneurial Project Programmer
+      where: University of Waterloo
+      when: 2010, 2012
+      what: 'In teams, developed a social course planner ([uwflow.com](http://uwflow.com), 2000 registered users); professional [network-building service](http://velocity.uwaterloo.ca/student-posts/heres-looking-at-you-cinq-me); motivational learning website'
+    - who: ACM Programming Contest Competitor
+      where: University of Waterloo
+      when: 2009 Fall
+      what: 'One of 9 students selected to represent U Waterloo. Trained five hours twice per week with teammates on algorithm problems. Rapidly wrote and debugged code during competition; attained 13th out of 115 at East Central North America.'
+    - who: Software Engineering Class Representative
+      where: University of Waterloo
+      when: 2009 Fall - Present
+      what: 'Took the initiative to write weekly email updates to the class. Co-founded the "Give Me Your Knowledge" student talks series. Founded course on open-source development (work in progress) - [os499.github.com](http://os499.github.com)'
+    - who: IEEE Student Branch Member
+      where: University of Waterloo
+      when: 2009 Fall - Present
+      what: "Designed and implemented a mailing system for U Waterloo's IEEE website in ASP.NET and C#."
+
+education:
+    - degree: Bachelor of Science in Computer Science
+      school: Trinity University
+      dates: 2010 - 2014
+      description:
+        - 'Senior Software Project'
+    - degree: High School Diploma
+      school: International School of the Americas, North East School of the Arts
+      dates: 2006 - 2010
+      description:
+        - 'ISA/NESA'
+
+awards:
+    - 'Honor Fraternity # 1'
+    - 'Honor Fraternity # 2'
+
+interests: 'singing, skateboarding, programming, design, bread baking, Jesus'
+
+warning: 'This file was generated. See github.com/divad12/resume for source.'
+
+# TODO:
+# - Improve README
+# - more details 2011 winter work term
+# - change current address
+# - fit onto two pages
+# - different HTML and LaTeX for special formatting
+
+
+################################################################################
+# This resume was created using:
+# - YAML source (this file) - for the resume content
+# - LaTeX template - for presentation and layout
+# - Python script and Cheetah (templating engine) for compiling together the
+#   YAML and LaTeX
+# - pdflatex for .tex --> .pdf
+# - GNU Make for easy compilation
+# - Vim for editing all files
+# - Git for revision control, diff, backup, branching, etc.
+#
+# - HTML & CSS template soon to come
+#
+# Other places to edit:
+# - LinkedIn
+# - Google profiles
+# - Facebook
